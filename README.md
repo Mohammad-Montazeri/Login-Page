@@ -1,0 +1,3 @@
+# Description
+
+This is one of my very first trials on the vast field of front-end design. I simply designed a login page, as one of the most practical and common webpages within world wide web. This design aligns intimately with the latest version of minimalistic *Material Design 3* (*Material You*) developed by Google. Although the designed webpage lacks functionality at the current time, it demonstrates a farsighted vision and promising future for the upcoming front-end projects, as the first serious experience of the author in this area.
